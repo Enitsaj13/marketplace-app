@@ -35,15 +35,18 @@ Prerequisites
 Setup Instructions
 
 1. Clone the Repository
+
    Clone the repository to your local machine:
    git clone https://github.com/your-username/marketplace-app.git
    cd marketplace-app
 
 2. Install Dependencies
+
    Install all the required dependencies using npm or yarn:
    npm install or yarn install
 
 3. Start the Development Server
+
    Run the development server using Expo:
    npm start or yarn start
 
@@ -121,5 +124,5 @@ Acknowledgments
 - Thanks to the React Native and Expo teams for their amazing tools.
 - Special thanks to the open-source community for providing libraries like zustand and react-navigation.
 
-You can also see the video demonstation below:
+You can also see the video demonstration below:
 https://drive.google.com/file/d/1B0aULpZm4mQ70jSnjtlR0G4TqVQUjY41/view?usp=sharing
