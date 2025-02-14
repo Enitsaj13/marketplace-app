@@ -37,17 +37,23 @@ Setup Instructions
 1. Clone the Repository
 
    Clone the repository to your local machine:
+
    git clone https://github.com/Enitsaj13/marketplace-app
+
    cd marketplace-app
 
 2. Install Dependencies
 
-   Install all the required dependencies using npm or yarn:
+   Install all the required dependencies
+
+   using npm or yarn:
+
    npm install or yarn install
 
 3. Start the Development Server
 
    Run the development server using Expo:
+
    npm start or yarn start
 
 Running the App
