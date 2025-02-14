@@ -49,16 +49,16 @@ Setup Instructions
 
 Running the App
 Running on Android
-Ensure you have an Android emulator set up or a physical device connected.
 
-Run the following command:
-npm run android or yarn android
+1. Ensure you have an Android emulator set up or a physical device connected.
+2. Run the following command:
+   npm run android or yarn android
 
 Running on iOS
-Ensure you have Xcode installed and an iOS simulator set up.
 
-Run the following command:
-npm run ios or yarn ios
+1. Ensure you have Xcode installed and an iOS simulator set up.
+2. Run the following command:
+   npm run ios or yarn ios
 
 Project Structure
 Here’s an overview of the project structure:
